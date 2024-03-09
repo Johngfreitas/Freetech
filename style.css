@@ -27,4 +27,17 @@
             color: white;
             font-size: 20px;
             align-items: flex-end;
+            margin-top: auto;
+        }
+        .menu{
+            background-color: rgba(0 0 0);
+            display: flex-start;
+            top: 0;
+            position: fixed;
+            width: 100%;
+            padding: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            z-index: 999;
+            font-size: 40px; 
+            color: white;           
         }
